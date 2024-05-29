@@ -30,3 +30,4 @@
 /Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.AssemblyReference.cache
 /Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/obj/Debug/net8.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 /Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.Up2Date
+/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/obj/Debug/net8.0/PizzaStore.sourcelink.json
