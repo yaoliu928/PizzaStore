@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/PizzaStore.csproj": {}
+  },
+  "projects": {
+    "/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/PizzaStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/PizzaStore.csproj",
+        "projectName": "PizzaStore",
+        "projectPath": "/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/PizzaStore.csproj",
+        "packagesPath": "/Users/yao/.nuget/packages/",
+        "outputPath": "/Users/yao/Documents/Job-dev/2023 to/projects/net/MinimalApi/PizzaStore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
